@@ -1,0 +1,4 @@
+django
+plotly
+pandas
+whitenoise
